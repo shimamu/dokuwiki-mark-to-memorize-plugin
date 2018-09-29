@@ -1,0 +1,7 @@
+base   mark2memorize
+author shimamu
+email  cooklecurry@gmail.com
+date   2018-09-29
+name   Mark To Memorize Plugin
+desc   Allow you to show and hide words more easily.
+url    https://www.dokuwiki.org/plugin:mark2memorize

@@ -1,0 +1,13 @@
+.show {
+	color: #cc0000;
+	background-color: #eeeeee;
+	border-right: solid 5px #eeeeee;
+	border-left: solid 5px #eeeeee;
+}
+
+.hide {
+	color: #f7f1a6;
+	background-color: #f7f1a6;
+	border-right: solid 5px #f7f1a6;
+	border-left: solid 5px #f4d868;
+}
