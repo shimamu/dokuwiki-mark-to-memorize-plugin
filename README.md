@@ -29,3 +29,9 @@ You can download from [DokuWiki.org](https://www.dokuwiki.org/plugin:mark2memori
 6. And you click once again, Keyword is covered again. 
 
 ![screenshot from 2018-09-30 17-31-57](https://user-images.githubusercontent.com/6657751/46255399-5fdafd00-c4d7-11e8-9b40-0219021bba0b.png)
+
+## How to build(for Developer)
+
+    git clone https://github.com/shimamu/dokuwiki-mark-to-memorize-plugin.git    
+    npm install
+    grunt
